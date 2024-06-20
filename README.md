@@ -1,16 +1,41 @@
-## Hi there 👋
+### Hello! 
 
-<!--
-**pelindzhinser/pelindzhinser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ✨ About me  ✨ 
+* 🎓 Education:
+ - **Bachelor's degree**: St. Petersburg State University of Economics *'International Relations'*
+ - **Master's degree**: SPBU GSOM *'Business Analytics and Big Data'*
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 Core competencies 💡
+**Business analytics:**
+
+**1. Data visualization software tools:**
+  * Tableau
+  * Power BI
+
+**2. Tools for collecting and processing data:**
+  * SQL
+  * Python 
+  
+**Data science:**
+
+**1. Tools for machine learning:**
+
+  * Scikit-learn (Python)
+
+**2. Tools for processing big data:**
+  * Hadoop
+  * Spark
+
+**3. Data Management Tools:** 
+
+  * MongoDB
+
+**4. Other useful tools:**
+
+  * Git
+  * Jupyter Notebook
+  * Docker
+
+### 🙌🏻 Contact me
+[Telegram](https://t.me/pelin_dzhinser)
